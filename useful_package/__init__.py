@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-from module_a import polynom_3
-=======
-from module_b import hyperbola
->>>>>>> module_b_dev
+from useful_package.module_a import polynom_3
+from useful_package.module_b import hyperbola
